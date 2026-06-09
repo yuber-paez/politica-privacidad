@@ -34,5 +34,30 @@ Nos reservamos el derecho de actualizar esta Política de Privacidad en cualquie
 
 ## 7. Contacto
 Si tienes preguntas o dudas sobre esta Política de Privacidad, puedes contactarnos en:
-* **Correo electrónico:** [Tu correo electrónico de contacto]
-* **Sitio web/GitHub:** [Enlace a tu perfil de GitHub o sitio web]
+* **Correo electrónico:** Santiagopc333@gmail.com
+* **Sitio web/GitHub:** https://github.com/yuber-paez
+
+
+---
+
+## <a name="condiciones-del-servicio"></a>Condiciones del Servicio
+
+**Última actualización:** 8 de junio de 2026
+
+Al utilizar los servicios de **Dosve**, aceptas cumplir y estar sujeto a los siguientes términos y condiciones de uso:
+
+1. **Uso Aceptable:** Te comprometes a utilizar nuestra integración con la API de WhatsApp de manera legal. Queda estrictamente prohibido el envío de spam, contenido ofensivo, fraudulento o que viole las políticas comerciales de Meta.
+2. **Responsabilidad:** La aplicación se proporciona "tal cual". No nos hacemos responsables de interrupciones en el servicio causadas por caídas en los servidores de la Graph API de Meta o fallas en la red del usuario.
+3. **Modificaciones:** Nos reservamos el derecho de modificar estos términos en cualquier momento para adaptarlos a nuevas regulaciones de Meta o mejoras del sistema.
+
+---
+
+## <a name="eliminacion-de-datos-de-usuario"></a>Eliminación de Datos de Usuario (Data Deletion Instructions)
+
+En cumplimiento con las normas de Meta para desarrolladores, garantizamos a los usuarios el control sobre sus datos. 
+
+Si deseas que eliminemos de forma permanente tu número de teléfono y el historial de mensajes procesados por nuestra aplicación, puedes solicitarlo siguiendo estos pasos:
+
+1. Envía un correo electrónico a **santiagopc333@gmail.com** con el asunto *"Solicitud de Eliminación de Datos - WhatsApp API"*.
+2. En el cuerpo del mensaje, incluye el **número de teléfono** (con el código de país) que deseas remover de nuestro sistema.
+3. Nuestro equipo procesará la solicitud y eliminará de forma definitiva toda la información asociada en un plazo máximo de **72 horas hábiles**. Una vez completado, recibirás una confirmación por correo electrónico.
