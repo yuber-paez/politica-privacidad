@@ -2,7 +2,7 @@
 
 **Última actualización:** 8 de junio de 2026
 
-En **[Nombre de tu Aplicación o Proyecto]**, nos tomamos muy en serio la privacidad de tus datos. Esta Política de Privacidad describe cómo recopilamos, utilizamos y protegemos la información cuando utilizas nuestra plataforma y nuestros servicios de integración con la API de Meta (WhatsApp Business API).
+En DOSVE TECH SAS, nos tomamos muy en serio la privacidad de tus datos. Esta Política de Privacidad describe cómo recopilamos, utilizamos y protegemos la información cuando utilizas nuestra plataforma y nuestros servicios de integración con la API de Meta (WhatsApp Business API).
 
 ---
 
